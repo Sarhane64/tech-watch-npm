@@ -1,6 +1,6 @@
 {
   "name": "tech-watch",
-  "description" : "package for tech-watch",
+  "description": "package for tech-watch",
   "version": "0.0.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -8,7 +8,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["tech-watch","other"],
+  "keywords": [
+    "tech-watch",
+    "other"
+  ],
   "author": "WCS student",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
+  }
 }
