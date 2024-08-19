@@ -1,5 +1,5 @@
 {
-  "name": "tech-watch",
+  "name": "@theo64600/tech-watch",
   "description": "package for tech-watch",
   "version": "0.0.1",
   "main": "./dist/index.js",
