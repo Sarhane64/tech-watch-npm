@@ -1,3 +1,1 @@
-export function helloWord() {
-    
-}
+export * from './function'
