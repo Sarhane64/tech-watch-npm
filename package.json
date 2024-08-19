@@ -2,10 +2,13 @@
   "name": "tech-watch",
   "description" : "package for tech-watch",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": ["tech-watch","other"],
+  "author": "WCS student",
   "license": "ISC"
 }
