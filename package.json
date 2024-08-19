@@ -5,6 +5,11 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "homepage": "https://google.com",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Sarhane64/tech-watch-npm"
+  },
   "scripts": {
     "build": "tsup" 
   },
