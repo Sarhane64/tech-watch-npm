@@ -1,7 +1,7 @@
 {
   "name": "@theo64600/tech-watch",
   "description": "package for tech-watch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./src/index.ts",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
