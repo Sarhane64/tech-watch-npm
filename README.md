@@ -1,1 +1,3 @@
-Basic package for tech watch 
+Install Project 
+
+npm i @theo64600/tech-watch
